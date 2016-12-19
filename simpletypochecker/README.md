@@ -1,0 +1,3 @@
+# SimpleTypoChecker
+
+**Enjoy!**

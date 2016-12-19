@@ -1,0 +1,32 @@
+[
+    {
+        "mode": 0,
+        "severity": 0,
+        "pattern": "ウインドウズ",
+        "message": "英語表記を推奨します",
+        "suggestion": "Windows"
+    },
+    {
+        "mode": 0,
+        "severity": 1,
+        "pattern": "ビジュアルスタジオ",
+        "message": "英語表記を推奨します",
+        "suggestion": "Visual Studio"
+    },
+    {
+        "mode": 1,
+        "severity": 2,
+        "pattern": "Microsoft",
+        "arg": "米",
+        "message": "完全系を使用することを推奨します",
+        "suggestion": "米Microsoft"
+    },
+    {
+        "mode": 2,
+        "severity": 3,
+        "pattern": "エクスプローラ",
+        "arg": "ー",
+        "message": "長音が必要です",
+        "suggestion": "エクスプローラー"
+    }
+]
