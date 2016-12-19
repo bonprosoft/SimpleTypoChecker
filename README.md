@@ -1,5 +1,7 @@
 # SimpleTypoChecker
 
+![](image/image.gif)
+
 ## これは何
 主にVSCode向けの表記ゆれ検出を行う拡張機能です。  
 診断機能とクイック修正機能も実装しました。  
